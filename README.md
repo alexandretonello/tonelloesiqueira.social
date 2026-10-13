@@ -1,9 +1,34 @@
+## Estrutura
+
+```
+/photos           — fotos originais (vinhedo, etc.)
+/logo             — logomarcas e variações (ts-logo-*)
+/instagram
+  /01-vinicola-valle-de-uco
+  /02-boutique-x-plataforma
+  /03-metodo
+  /04-modelagem
+  /05-intermediacao
+  /06-para-quem-vende
+  /07-para-quem-compra
+/linkedin
+  /01-boutique-x-plataforma
+  /02-metodo
+  /03-modelagem
+  /04-intermediacao
+```
+
+Cada pasta de post (Instagram ou LinkedIn) contém:
+- `post-*.png` — imagem(ns) prontas para publicar (LinkedIn: carrossel, várias telas)
+- `legenda.txt` — legenda + hashtags, pronta para copiar e colar
+- `post-visualizar.html` — pré-visualização no navegador (opcional)
+
 ## Calendário — outubro 2026
 
 | # | Canal | Tema | Status |
 |---|-------|------|--------|
 | 1 | Instagram | Estreia no setor vitivinícola — Valle de Uco | Pronto |
-| 2 | Instagram | A Casa — Boutique x Plataforma | — |
+| 2 | Instagram | A Casa — Boutique x Plataforma | Pronto |
 | 3 | Instagram | Método — como conduzimos | — |
 | 4 | Instagram | Modelagem — metodologia | — |
 | 5 | Instagram | Intermediação — a venda | — |
@@ -26,10 +51,3 @@ Conteúdo segue o sistema de design **Padrão** da Tonello & Siqueira: navy `#19
 bronze `#B0863C`, serifa de sistema (Georgia) nos títulos e corpo, sans de sistema em
 caixa-alta nos rótulos. Voz institucional no plural ("nós"), sem emoji, sem exclamações.
 Ver `_ds/` ou o repositório do design system para referência completa.
-
-## Uso
-
-Cada pasta de post contém:
-- `post-instagram-*.png` / `post-linkedin-*.png` — imagem(ns) prontas para publicar
-- `legenda.txt` — legenda + hashtags, pronta para copiar e colar
-- `post-visualizar.html` — pré-visualização do post no navegador (opcional)
