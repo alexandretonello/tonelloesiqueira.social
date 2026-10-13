@@ -3,16 +3,22 @@
 | # | Canal | Tema | Status |
 |---|-------|------|--------|
 | 1 | Instagram | Estreia no setor vitivinícola — Valle de Uco | Pronto |
-| 2 | Instagram | "O que fazemos." — método de valuation | — |
-| 3 | Instagram | Pergunta do cliente em destaque | — |
-| 4 | Instagram | Bastidores de um laudo (DCF, múltiplos, EBITDA) | — |
-| 5 | Instagram | Sócio em foco | — |
-| 6 | Instagram | Dúvida comum (FAQ) | — |
-| 1 | LinkedIn | Anúncio institucional — vitivinícola | — |
-| 2 | LinkedIn | Conteúdo de método | — |
+| 2 | Instagram | A Casa — Boutique x Plataforma | — |
+| 3 | Instagram | Método — como conduzimos | — |
+| 4 | Instagram | Modelagem — metodologia | — |
+| 5 | Instagram | Intermediação — a venda | — |
+| 6 | Instagram | Para quem vende | — |
+| 7 | Instagram | Para quem compra | — |
+| 1 | LinkedIn | A Casa — Boutique x Plataforma (carrossel) | — |
+| 2 | LinkedIn | Método — como conduzimos (carrossel) | — |
+| 3 | LinkedIn | Modelagem — metodologia (carrossel) | — |
+| 4 | LinkedIn | Intermediação — a venda (carrossel) | — |
+
+**Datas previstas (Instagram):** 14/10, 17/10, 20/10, 23/10, 26/10, 29/10
+**Datas previstas (LinkedIn):** 16/10, 21/10, 27/10, 31/10
 
 Posts de Instagram são escritos para funcionar também como Threads (texto autocontido,
-sem depender da imagem).
+sem depender da imagem). Posts de LinkedIn seguem formato carrossel (várias telas por post).
 
 ## Padrão de marca
 
@@ -24,6 +30,6 @@ Ver `_ds/` ou o repositório do design system para referência completa.
 ## Uso
 
 Cada pasta de post contém:
-- `post-instagram-*.png` — imagem pronta para publicar
+- `post-instagram-*.png` / `post-linkedin-*.png` — imagem(ns) prontas para publicar
 - `legenda.txt` — legenda + hashtags, pronta para copiar e colar
 - `post-visualizar.html` — pré-visualização do post no navegador (opcional)
