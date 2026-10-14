@@ -1,0 +1,13 @@
+Uma vinícola na Argentina, no segmento premium. Nenhum modelo de prateleira respondia à pergunta que o ativo fazia, então construímos um. E testamos o que construímos.
+
+A pergunta não era quanto o vinhedo rende. Era quanto vale o fato de ele já estar pronto. Para responder, o modelo roda duas trajetórias sobre a mesma linha do tempo, o vinhedo em plena produção e o mesmo vinhedo partindo do zero, e mede o valor presente da distância entre elas.
+
+Para explicar o preço dos comparáveis, criamos três réguas próprias: posição geográfica, maturidade do vinhedo e uma consolidada, com unidade de medida feita para o trabalho.
+
+Depois submetemos as três a teste de aderência contra a alternativa mais simples possível, a média. Nenhuma superou. As três passaram de método de conclusão a análise de sensibilidade, e a base da conclusão mudou. Quase ninguém mostra o indicador que descartou. É esse descarte que separa método de narrativa.
+
+A verificação teve quatro camadas: duas auditorias de norma, teste de integridade do modelo sob perturbação de inputs e revisão pelo segundo sócio. Ao final, duas rotas de valor construídas por caminhos independentes convergiram a menos de 3% uma da outra.
+
+Cada negócio exige o seu modelo.
+
+#valuation #avaliacaodeempresas #fusoeseaquisicoes #modelagemfinanceira #vinho

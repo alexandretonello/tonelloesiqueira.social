@@ -8,9 +8,10 @@
   /02-boutique-x-plataforma
   /03-metodo
   /04-modelagem
-  /05-intermediacao
-  /06-para-quem-vende
-  /07-para-quem-compra
+  /05-caso-vinicola
+  /06-intermediacao
+  /07-para-quem-vende
+  /08-para-quem-compra
 /linkedin
   /01-boutique-x-plataforma
   /02-metodo
@@ -23,24 +24,26 @@ Cada pasta de post (Instagram ou LinkedIn) contém:
 - `legenda.txt` — legenda + hashtags, pronta para copiar e colar
 - `post-visualizar.html` — pré-visualização no navegador (opcional)
 
-## Calendário — outubro 2026
+## Calendário — outubro/novembro 2026
 
-| # | Canal | Tema | Status |
-|---|-------|------|--------|
-| 1 | Instagram | Estreia no setor vitivinícola — Valle de Uco | Pronto |
-| 2 | Instagram | A Casa — Boutique x Plataforma | Pronto |
-| 3 | Instagram | Método — como conduzimos | — |
-| 4 | Instagram | Modelagem — metodologia | — |
-| 5 | Instagram | Intermediação — a venda | — |
-| 6 | Instagram | Para quem vende | — |
-| 7 | Instagram | Para quem compra | — |
-| 1 | LinkedIn | A Casa — Boutique x Plataforma (carrossel) | — |
-| 2 | LinkedIn | Método — como conduzimos (carrossel) | — |
-| 3 | LinkedIn | Modelagem — metodologia (carrossel) | — |
-| 4 | LinkedIn | Intermediação — a venda (carrossel) | — |
+| # | Canal | Tema | Data | Status |
+|---|-------|------|------|--------|
+| 1 | Instagram | Estreia no setor vitivinícola — Valle de Uco | — | Publicado |
+| 2 | Instagram | A Casa — Plataforma x Casa de M&A | qua 14/10 | Publicado |
+| 3 | Instagram | Método — como conduzimos | ter 20/10 | — |
+| 4 | Instagram | Modelagem — metodologia | sex 23/10 | — |
+| 5 | Instagram | Caso — a vinícola (anonimizado) | ter 27/10 | Pronto — aguarda aceite do cliente |
+| 6 | Instagram | Intermediação — a venda | sex 30/10 | — |
+| 7 | Instagram | Para quem vende | ter 03/11 | — |
+| 8 | Instagram | Para quem compra | sex 06/11 | — |
+| 1 | LinkedIn | A Casa — Plataforma x Casa de M&A (publicação + foto) | qua 14/10 | Publicado |
+| 2 | LinkedIn | Método — como conduzimos | 21/10 | — |
+| 3 | LinkedIn | Modelagem — metodologia | 27/10 | — |
+| 4 | LinkedIn | Intermediação — a venda | 31/10 | — |
 
-**Datas previstas (Instagram):** 14/10, 17/10, 20/10, 23/10, 26/10, 29/10
-**Datas previstas (LinkedIn):** 16/10, 21/10, 27/10, 31/10
+Instagram: sempre às 10:00 (pico da conta em dias úteis, Metricool). Sem sábados.
+
+1/10, 27/10, 31/10
 
 Posts de Instagram são escritos para funcionar também como Threads (texto autocontido,
 sem depender da imagem). Posts de LinkedIn seguem formato carrossel (várias telas por post).
