@@ -34,14 +34,14 @@ Cada pasta de post (Instagram ou LinkedIn) contém:
 | 3 | Instagram | Método — como conduzimos | ter 20/10 | Aprovado — 7 telas, aguarda agendamento |
 | 4 | Instagram | Modelagem — metodologia | sex 23/10 | Aprovado — 8 telas, aguarda agendamento |
 | 5 | Instagram | Caso — a vinícola (anonimizado) | ter 27/10 | Aprovado — 7 telas, aguarda aceite do cliente |
-| 6 | Instagram | Intermediação — a venda | sex 30/10 | — |
+| 6 | Instagram | Intermediação — a venda | sex 30/10 | Aprovado — 8 telas, aguarda agendamento |
 | 7 | Instagram | Para quem vende | ter 03/11 | — |
 | 8 | Instagram | Para quem compra | sex 06/11 | — |
 | 2 | LinkedIn | A Casa — Plataforma x Casa de M&A (publicação + foto) | qua 14/10 | Publicado |
 | 3 | LinkedIn | Método — como conduzimos | qua 21/10 | Pronto — texto + foto |
 | 4 | LinkedIn | Modelagem — metodologia | ter 27/10 | Aprovado — texto técnico (IVS + FAST) + foto |
 | 5 | LinkedIn | Caso — a vinícola (anonimizado) | a definir | Aprovado — texto técnico + foto, aguarda aceite do cliente |
-| 6 | LinkedIn | Intermediação — a venda | 31/10 | — |
+| 6 | LinkedIn | Intermediação — a venda | a definir (31/10 é sábado) | Aprovado — texto técnico + foto |
 
 Instagram: sempre às 10:00 (pico da conta em dias úteis, Metricool). Sem sábados.
 
