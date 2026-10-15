@@ -1,0 +1,19 @@
+Antes da planilha, quatro decisões.
+
+A metodologia não é escolhida por hábito. A sequência precede a modelagem, nunca o contrário, e a ordem segue a estrutura das Normas Internacionais de Avaliação, as IVS.
+
+1. Escopo. O ativo, o cliente, o uso pretendido, a data-base e as fontes de informação. Nenhuma metodologia é escolhida antes dessas respostas.
+
+2. Base e premissa de valor. Valor de mercado, de investimento, equitativo ou de liquidação; melhor uso, uso atual, liquidação ordenada ou venda forçada. É aqui que se testa se o ativo está no seu uso mais eficiente.
+
+3. Abordagens. Mercado: o que se pagou por bens equivalentes, quando existe amostra observável. Renda: o que o bem gera, trazido a valor presente, quando o fluxo é projetável com confiança. Custo: o que valem as partes, ou o que custaria repor, quando o patrimônio supera o que a operação rende ou o ativo é especializado e sem mercado. Testamos as três em toda avaliação; as que os dados não sustentam são descartadas por escrito, com o motivo declarado.
+
+4. Reconciliação. Cada indicação recebe peso conforme a qualidade dos insumos e a natureza do ativo, e o resultado é um valor único, sem fazer média. Divergência grande se investiga, não se pondera.
+
+O modelo segue o FAST Standard: insumos, cálculos e resultados separados, fórmulas curtas e consistentes, checagens de erro sempre à vista. As normas contábeis de referência são as IFRS® Accounting Standards, no Brasil pelos pronunciamentos do CPC; as de avaliação, as IVS em vigor desde 31/01/2025.
+
+IA na modelagem: usamos o Claude, da Anthropic, para auditar o modelo contra o FAST e as IVS e testá-lo sob estresse. Premissas e conclusão são dos sócios.
+
+Cada decisão fica registrada no laudo, com o motivo.
+
+#valuation #IVS #FASTStandard #modelagemfinanceira #avaliacaodeempresas #fusoeseaquisicoes

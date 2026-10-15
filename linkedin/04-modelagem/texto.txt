@@ -1,0 +1,28 @@
+Antes da primeira planilha, quatro decisões já foram tomadas. A ordem não é preferência da casa: é a estrutura das Normas Internacionais de Avaliação (IVS), edição em vigor desde 31/01/2025.
+
+1. Escopo (IVS 101)
+A norma lista o que precisa estar definido antes do trabalho: o ativo avaliado, o cliente, o uso pretendido e os usuários, a moeda, a data-base, a base de valor e as fontes de informação, entre outros itens. Nenhuma metodologia é escolhida antes dessas respostas.
+
+2. Base e premissa de valor (IVS 102)
+A base: valor de mercado, valor de investimento, valor equitativo ou valor de liquidação, entre as previstas. A premissa: melhor uso, uso atual, liquidação ordenada ou venda forçada. É aqui que se testa se o ativo está no seu uso mais eficiente.
+
+3. Abordagens (IVS 103)
+Mercado, renda e custo, que no nosso material chamamos de abordagem de ativos. Testamos as três em toda avaliação; as que os dados não sustentam são descartadas por escrito, com o motivo declarado.
+
+4. Reconciliação (IVS 103, itens 10.07 e 10.09)
+Havendo mais de uma indicação, a norma pede que elas sejam reconciliadas em um valor único, sem fazer média, e que o processo seja descrito no laudo. Indicações muito divergentes não se resolvem por ponderação: investiga-se a causa.
+
+O modelo (IVS 105 e FAST Standard)
+A edição de 2025 dá aos modelos de avaliação uma norma própria, a IVS 105, e define modelo como a implementação quantitativa de um método, que converte insumos em resultados. Para construí-lo seguimos o FAST Standard, versão 02c:
+– abas separadas por função: insumos, cálculos, apresentação e controle (regra 1.01-01);
+– fluxo único, insumo › cálculo › resultado (2.05-04);
+– fórmulas consistentes ao longo da linha (3.02-01) e sem constantes embutidas (3.04-01);
+– nenhuma fórmula mais longa que um polegar (3.03-01);
+– checagens de erro sempre à vista (2.03-05).
+
+Controles (IVS 100) e IA
+A IVS 100 pede controles documentados sobre os julgamentos da avaliação. Usamos o Claude, da Anthropic, para auditar o modelo contra o FAST e as IVS e para testá-lo sob estresse. Premissas e conclusão são dos sócios.
+
+Cada decisão fica registrada no laudo, com o motivo.
+
+#valuation #IVS #FASTStandard #modelagemfinanceira #avaliacaodeempresas #fusoeseaquisicoes
