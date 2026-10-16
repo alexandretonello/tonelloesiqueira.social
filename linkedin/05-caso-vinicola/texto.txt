@@ -1,31 +1,22 @@
-Uma vinícola na Argentina, no segmento premium. Nenhum modelo de prateleira respondia à pergunta que o ativo fazia. Então construímos um, e testamos o que construímos.
+Uma vinícola na Argentina, no segmento premium. Nenhum modelo de prateleira respondia à pergunta que o ativo fazia.
+
+Então construímos um, e testamos o que construímos.
 
 A pergunta
-Não era quanto o vinhedo rende. Era quanto vale o fato de ele já estar pronto. O modelo roda duas trajetórias sobre a mesma linha do tempo, o vinhedo em plena produção e o mesmo vinhedo partindo do zero, e mede o valor presente da distância entre elas. Sem perpetuidade: a vantagem de estar pronto é finita, e o modelo a trata assim.
+Não era quanto o vinhedo rende, mas quanto vale o fato de ele já estar pronto. O modelo compara o vinhedo em plena produção com o mesmo vinhedo partindo do zero e mede o valor presente da distância. Sem perpetuidade: essa vantagem é finita.
 
 A metodologia
-Para explicar o preço dos comparáveis, desenvolvemos três réguas próprias, com unidade de medida criada para o trabalho:
-– posição geográfica: a distância até os serviços que dão uso à terra;
-– maturidade do vinhedo: a idade das vinhas e o quanto falta para a plena produção;
-– régua consolidada: os dois eixos normalizados em uma só leitura.
-Cada régua foi testada contra a alternativa mais simples possível, a média, antes de definirmos o seu papel no laudo.
+Três réguas próprias, com unidade de medida criada para o trabalho, explicam o preço dos comparáveis: posição geográfica, maturidade do vinhedo e uma régua consolidada. Cada uma foi testada contra a alternativa mais simples, a média.
 
-A receita, etapa por etapa
-O processo do vinho é conhecido; o trabalho foi adaptar o modelo a ele.
-– Uva: área × toneladas por hectare, cepa a cepa, com rampa até a plena produção. Avalia-se a capacidade do ativo, não a fração que o operador escolheu vinificar.
-– Vinificação: toneladas convertidas em garrafas, rótulo a rótulo; o mix entre rótulos é alavanca do modelo.
-– Barrica: estoque a valor realizável líquido, o preço da garrafa menos o que falta até ela.
-– Garrafa: garrafas × preço por canal, ponderado pelo mix, com parte vendida a granel.
-A receita, menos taxas de gestão, vinificação, logística e impostos, dá o fluxo de cada safra, trazido a valor presente.
+A receita
+Uva, vinificação, barrica e garrafa, etapa por etapa. Avalia-se a capacidade do ativo, não a fração que o operador escolheu vinificar.
+Na barrica, o estoque vale o preço da garrafa menos o que falta até ela. A receita, menos custos e impostos, dá o fluxo de cada safra, trazido a valor presente.
 
-Por trás do modelo: notas técnicas de preço, com triangulação entre comparáveis, custo e dedução a partir do preço de varejo; estudos de produtividade; e pesquisa legal vinculada ao imóvel.
+Por trás do modelo
+Notas técnicas de preço, com triangulação entre comparáveis, custo e dedução a partir do preço de varejo; estudos de produtividade; pesquisa legal do imóvel.
 
 A verificação
-– auditoria do modelo pelo FAST Standard;
-– auditoria da avaliação pelas IVS;
-– teste de estresse sob perturbação dos insumos;
-– revisão pelo segundo sócio.
-Ao final, duas rotas de valor construídas por caminhos independentes convergiram a menos de 3% uma da outra.
+Modelo e avaliação auditados contra as normas, teste de estresse e revisão pelo segundo sócio. Duas rotas de valor independentes convergiram a menos de 3% uma da outra.
 
 Cada negócio exige o seu modelo.
 

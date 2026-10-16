@@ -1,20 +1,23 @@
-Vender uma empresa não começa pela abordagem. Começa pelo contrato de mandato: prazo, escopo e cadência de reporte definidos por escrito antes do primeiro contato com qualquer comprador.
+Vender uma empresa não começa pela abordagem. Começa pelo contrato de mandato.
+
+Prazo, escopo e cadência de reporte ficam por escrito antes do primeiro contato com qualquer comprador.
 
 1. Preparação
-Laudo, preço-alvo e preço-piso por escrito. O preço-alvo é a referência de abertura; o preço-piso é o valor abaixo do qual não se fecha, ancorado no laudo e não na urgência do momento. Na mesma etapa, o questionário diagnóstico mede o que o comprador vai precificar (dependência do dono, concentração de clientes, qualidade do financeiro e passivos), e a documentação da diligência é organizada antes de ser pedida. Achado de diligência que surge tarde vira desconto no preço.
+Laudo, preço-alvo e preço-piso por escrito. O piso se ancora no laudo, não na urgência do momento.
+O questionário diagnóstico antecipa o que o comprador vai precificar. Achado de diligência que surge tarde vira desconto.
 
 2. Abordagem reservada
-Sem anúncio. A lista de compradores é construída para cada mandato, com o motivo de cada nome: empresário do setor, consolidador, empresário de setor correlato, investidor com tese e executivo. Cada nome passa pelo veto do vendedor antes do contato. O primeiro material é um teaser sem identificação; o nome do negócio só é revelado depois do NDA. Parte dos compradores chega pelo network: assessores, contadores, advogados de M&A e investidores.
+Sem anúncio. A lista de compradores é feita para cada mandato e passa pelo veto do vendedor. O teaser não identifica a empresa; o nome só aparece depois do NDA. Parte dos compradores chega pela rede de assessores, contadores e advogados.
 
 3. Negociação
-Cada proposta recebe leitura técnica, e o valor é defendido com o laudo, não com opinião. Coordenamos a diligência do comprador. Nenhuma proposta é aceita ou recusada sem a manifestação do vendedor.
+Cada proposta recebe leitura técnica, e o valor é defendido com o laudo. Coordenamos a diligência do comprador. Nenhuma proposta é aceita ou recusada sem a manifestação do vendedor.
 
 4. Assinatura
-O preço de face é só uma das variáveis. Estruturamos a forma de pagamento: parcela à vista, saldo a prazo, retenção para cobrir contingências e parcela condicionada a metas (earn-out). Duas propostas com o mesmo preço podem ter valores muito diferentes para quem vende. A redação do contrato é do advogado do vendedor.
+À vista, saldo a prazo, retenção e earn-out: duas propostas com o mesmo preço podem valer muito diferente para quem vende. A redação do contrato é do advogado do vendedor.
 
 Duas formas de contratar
-– Mandato aberto: a casa é uma das frentes de venda. Vigência de 12 meses, reporte em tempo real, contato a contato; fixo maior e taxa de sucesso menor.
-– Mandato exclusivo: a casa é a única a conduzir. Vigência de 9 meses, três reportes trimestrais consolidados (leitura do mercado, objeções recorrentes e recomendação de ajuste) e uma única narrativa de preço, sustentada pelo laudo; fixo reduzido e taxa de sucesso maior.
+Mandato aberto: 12 meses, reporte em tempo real, fixo maior e taxa de sucesso menor.
+Mandato exclusivo: 9 meses, reporte trimestral com leitura do mercado e recomendação de ajuste, fixo reduzido e taxa de sucesso maior.
 Nas duas, o laudo está incluído.
 
 Quem conduz a venda é o sócio Felipe Monteiro de Siqueira. Não há promessa de comprador em prazo fixo.
