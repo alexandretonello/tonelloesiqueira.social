@@ -1,0 +1,7 @@
+Regra da casa nº 03: um número só vale se outro caminho chegar perto dele.
+
+Todo valor é conferido por um segundo caminho, construído de forma independente. Um modelo pode estar coerente e errado; é menos provável que dois caminhos independentes errem juntos.
+
+Na vinícola na Argentina, duas rotas de valor convergiram a menos de 3% uma da outra. Quando os caminhos divergem, investiga-se antes de entregar.
+
+#fusoeseaquisicoes #valuation #avaliacaodeempresas #pequenasemediasempresas

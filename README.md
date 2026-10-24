@@ -38,14 +38,14 @@ Cada pasta de post (Instagram ou LinkedIn) contém:
 |---|-------|------|------|--------|
 | 1 | Instagram | Estreia no setor vitivinícola — Valle de Uco | — | Publicado |
 | 2 | Instagram | A Casa — Plataforma x Casa de M&A | qua 14/10 | Publicado |
-| 3 | Instagram | Método — como conduzimos | ter 20/10 | Aprovado — 7 telas, aguarda agendamento |
-| 4 | Instagram | Modelagem — metodologia | sex 23/10 | Aprovado — 8 telas, aguarda agendamento |
-| 5 | Instagram | Caso — a vinícola (anonimizado) | ter 27/10 | Aprovado — 7 telas, aceite do cliente recebido, aguarda agendamento |
-| 6 | Instagram | Intermediação — a venda | sex 30/10 | Aprovado — 8 telas, aguarda agendamento |
-| 7 | Instagram | Para quem vende | ter 03/11 | Aprovado — 6 telas, aguarda agendamento |
-| 8 | Instagram | Para quem compra | sex 06/11 | Aprovado — 6 telas, aguarda agendamento |
-| 9 | Instagram | Para quem compra II — honorários e negociação | ter 10/11 | Aprovado — 8 telas, OK do Siqueira recebido, aguarda agendamento |
-| 10 | Instagram | Empreendedorismo — Semana Global do Empreendedorismo (16 a 22/11) | ter 17/11 | Aprovado — 7 telas, aguarda agendamento |
+| 3 | Instagram | Método — como conduzimos | ter 20/10 | Aprovado — 7 telas, agendado no Metricool (10:00, publicação automática) |
+| 4 | Instagram | Modelagem — metodologia | sex 23/10 | Aprovado — 8 telas, agendado no Metricool (10:00, publicação automática) |
+| 5 | Instagram | Caso — a vinícola (anonimizado) | ter 27/10 | Aprovado — 7 telas, aceite do cliente recebido, agendado no Metricool (10:00, publicação automática) |
+| 6 | Instagram | Intermediação — a venda | sex 30/10 | Aprovado — 8 telas, agendado no Metricool (10:00, publicação automática) |
+| 7 | Instagram | Para quem vende | ter 03/11 | Aprovado — 6 telas, agendado no Metricool (10:00, publicação automática) |
+| 8 | Instagram | Para quem compra | sex 06/11 | Aprovado — 6 telas, agendado no Metricool (10:00, publicação automática) |
+| 9 | Instagram | Para quem compra II — honorários e negociação | ter 10/11 | Aprovado — 8 telas, OK do Siqueira recebido, agendado no Metricool (10:00, publicação automática) |
+| 10 | Instagram | Empreendedorismo — Semana Global do Empreendedorismo (16 a 22/11) | ter 17/11 | Aprovado — 7 telas, agendado no Metricool (10:00, publicação automática) |
 | 2 | LinkedIn | A Casa — Plataforma x Casa de M&A (publicação + foto) | qua 14/10 | Publicado |
 | 3 | LinkedIn | Método — como conduzimos | qui 22/10 | Aprovado — texto + foto |
 | 4 | LinkedIn | Modelagem — metodologia | seg 26/10 | Aprovado — texto técnico (IVS + FAST) + foto |

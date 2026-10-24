@@ -1,0 +1,568 @@
+{
+ "competencia": "2026-10",
+ "tipo": "previa",
+ "periodo": "2026-10-01 a 2026-10-22",
+ "extraido": "2026-10-22",
+ "brandId": 7404146,
+ "posts": [
+  {
+   "data": "2026-09-07",
+   "titulo": "Avaliar uma empresa não é fazer uma estimativa",
+   "tipo": "imagem",
+   "alcance": 205,
+   "vis": 332,
+   "curt": 6,
+   "com": 0,
+   "salv": 0,
+   "comp": 2,
+   "seg": 0,
+   "inter": 8,
+   "vis_conta": 1.62,
+   "tx_comp": 1.0,
+   "tx_salv": 0.0,
+   "seg_100": 0.0,
+   "tx_inter": 3.9
+  },
+  {
+   "data": "2026-09-14",
+   "titulo": "Valuation é o processo de entender quanto…",
+   "tipo": "imagem",
+   "alcance": 99,
+   "vis": 158,
+   "curt": 5,
+   "com": 0,
+   "salv": 0,
+   "comp": 1,
+   "seg": 0,
+   "inter": 6,
+   "vis_conta": 1.6,
+   "tx_comp": 1.0,
+   "tx_salv": 0.0,
+   "seg_100": 0.0,
+   "tx_inter": 6.1
+  },
+  {
+   "data": "2026-09-21",
+   "titulo": "Essa é uma das perguntas mais importantes…",
+   "tipo": "imagem",
+   "alcance": 100,
+   "vis": 162,
+   "curt": 7,
+   "com": 0,
+   "salv": 0,
+   "comp": 1,
+   "seg": 0,
+   "inter": 8,
+   "vis_conta": 1.62,
+   "tx_comp": 1.0,
+   "tx_salv": 0.0,
+   "seg_100": 0.0,
+   "tx_inter": 8.0
+  },
+  {
+   "data": "2026-09-28",
+   "titulo": "Uma negociação estratégica começa com discrição",
+   "tipo": "imagem",
+   "alcance": 156,
+   "vis": 241,
+   "curt": 8,
+   "com": 0,
+   "salv": 1,
+   "comp": 1,
+   "seg": 0,
+   "inter": 10,
+   "vis_conta": 1.54,
+   "tx_comp": 0.6,
+   "tx_salv": 0.6,
+   "seg_100": 0.0,
+   "tx_inter": 6.4
+  },
+  {
+   "data": "2026-10-14",
+   "titulo": "Conduzida pelos sócios, não por uma plataforma",
+   "tipo": "carrossel",
+   "alcance": 156,
+   "vis": 1096,
+   "curt": 16,
+   "com": 0,
+   "salv": 0,
+   "comp": 12,
+   "seg": 3,
+   "inter": 28,
+   "vis_conta": 7.03,
+   "tx_comp": 7.7,
+   "tx_salv": 0.0,
+   "seg_100": 1.92,
+   "tx_inter": 17.9
+  },
+  {
+   "data": "2026-10-20",
+   "titulo": "Como conduzimos",
+   "tipo": "carrossel",
+   "alcance": 177,
+   "vis": 1148,
+   "curt": 10,
+   "com": 0,
+   "salv": 0,
+   "comp": 15,
+   "seg": 0,
+   "inter": 25,
+   "vis_conta": 6.49,
+   "tx_comp": 8.5,
+   "tx_salv": 0.0,
+   "seg_100": 0.0,
+   "tx_inter": 14.1
+  }
+ ],
+ "diario": [
+  {
+   "data": "2026-09-01",
+   "seg": null,
+   "vis": null,
+   "alc": 47,
+   "eng": 3
+  },
+  {
+   "data": "2026-09-02",
+   "seg": null,
+   "vis": null,
+   "alc": 2,
+   "eng": 0
+  },
+  {
+   "data": "2026-09-03",
+   "seg": null,
+   "vis": null,
+   "alc": 1,
+   "eng": 0
+  },
+  {
+   "data": "2026-09-04",
+   "seg": null,
+   "vis": null,
+   "alc": 0,
+   "eng": 0
+  },
+  {
+   "data": "2026-09-05",
+   "seg": null,
+   "vis": null,
+   "alc": 0,
+   "eng": 0
+  },
+  {
+   "data": "2026-09-06",
+   "seg": null,
+   "vis": null,
+   "alc": 2,
+   "eng": 0
+  },
+  {
+   "data": "2026-09-07",
+   "seg": null,
+   "vis": null,
+   "alc": 180,
+   "eng": 7
+  },
+  {
+   "data": "2026-09-08",
+   "seg": null,
+   "vis": null,
+   "alc": 86,
+   "eng": 1
+  },
+  {
+   "data": "2026-09-09",
+   "seg": null,
+   "vis": null,
+   "alc": 5,
+   "eng": 0
+  },
+  {
+   "data": "2026-09-10",
+   "seg": null,
+   "vis": null,
+   "alc": 0,
+   "eng": 0
+  },
+  {
+   "data": "2026-09-11",
+   "seg": null,
+   "vis": null,
+   "alc": 0,
+   "eng": 0
+  },
+  {
+   "data": "2026-09-12",
+   "seg": null,
+   "vis": null,
+   "alc": 2,
+   "eng": 1
+  },
+  {
+   "data": "2026-09-13",
+   "seg": null,
+   "vis": null,
+   "alc": 2,
+   "eng": 0
+  },
+  {
+   "data": "2026-09-14",
+   "seg": null,
+   "vis": null,
+   "alc": 98,
+   "eng": 6
+  },
+  {
+   "data": "2026-09-15",
+   "seg": null,
+   "vis": null,
+   "alc": 41,
+   "eng": 1
+  },
+  {
+   "data": "2026-09-16",
+   "seg": null,
+   "vis": null,
+   "alc": 1,
+   "eng": 0
+  },
+  {
+   "data": "2026-09-17",
+   "seg": null,
+   "vis": null,
+   "alc": 0,
+   "eng": 0
+  },
+  {
+   "data": "2026-09-18",
+   "seg": null,
+   "vis": null,
+   "alc": 1,
+   "eng": 0
+  },
+  {
+   "data": "2026-09-19",
+   "seg": null,
+   "vis": null,
+   "alc": 0,
+   "eng": 0
+  },
+  {
+   "data": "2026-09-20",
+   "seg": null,
+   "vis": null,
+   "alc": 2,
+   "eng": 0
+  },
+  {
+   "data": "2026-09-21",
+   "seg": null,
+   "vis": null,
+   "alc": 118,
+   "eng": 9
+  },
+  {
+   "data": "2026-09-22",
+   "seg": null,
+   "vis": null,
+   "alc": 17,
+   "eng": 0
+  },
+  {
+   "data": "2026-09-23",
+   "seg": null,
+   "vis": null,
+   "alc": 1,
+   "eng": 0
+  },
+  {
+   "data": "2026-09-24",
+   "seg": null,
+   "vis": null,
+   "alc": 1,
+   "eng": 0
+  },
+  {
+   "data": "2026-09-25",
+   "seg": null,
+   "vis": null,
+   "alc": 0,
+   "eng": 0
+  },
+  {
+   "data": "2026-09-26",
+   "seg": null,
+   "vis": null,
+   "alc": 0,
+   "eng": 0
+  },
+  {
+   "data": "2026-09-27",
+   "seg": null,
+   "vis": null,
+   "alc": 15,
+   "eng": 5
+  },
+  {
+   "data": "2026-09-28",
+   "seg": null,
+   "vis": null,
+   "alc": 175,
+   "eng": 6
+  },
+  {
+   "data": "2026-09-29",
+   "seg": null,
+   "vis": null,
+   "alc": 8,
+   "eng": 0
+  },
+  {
+   "data": "2026-09-30",
+   "seg": null,
+   "vis": null,
+   "alc": 1,
+   "eng": 0
+  },
+  {
+   "data": "2026-10-01",
+   "seg": null,
+   "vis": null,
+   "alc": 1,
+   "eng": 1
+  },
+  {
+   "data": "2026-10-02",
+   "seg": null,
+   "vis": null,
+   "alc": 1,
+   "eng": 0
+  },
+  {
+   "data": "2026-10-03",
+   "seg": null,
+   "vis": null,
+   "alc": 0,
+   "eng": 0
+  },
+  {
+   "data": "2026-10-04",
+   "seg": null,
+   "vis": null,
+   "alc": 1,
+   "eng": 0
+  },
+  {
+   "data": "2026-10-05",
+   "seg": null,
+   "vis": null,
+   "alc": 0,
+   "eng": 0
+  },
+  {
+   "data": "2026-10-06",
+   "seg": null,
+   "vis": null,
+   "alc": 0,
+   "eng": 0
+  },
+  {
+   "data": "2026-10-07",
+   "seg": null,
+   "vis": null,
+   "alc": 0,
+   "eng": 0
+  },
+  {
+   "data": "2026-10-08",
+   "seg": null,
+   "vis": null,
+   "alc": 0,
+   "eng": 0
+  },
+  {
+   "data": "2026-10-09",
+   "seg": null,
+   "vis": null,
+   "alc": 0,
+   "eng": 0
+  },
+  {
+   "data": "2026-10-10",
+   "seg": null,
+   "vis": null,
+   "alc": 1,
+   "eng": 0
+  },
+  {
+   "data": "2026-10-11",
+   "seg": null,
+   "vis": null,
+   "alc": 0,
+   "eng": 0
+  },
+  {
+   "data": "2026-10-12",
+   "seg": 84,
+   "vis": null,
+   "alc": 0,
+   "eng": 0
+  },
+  {
+   "data": "2026-10-13",
+   "seg": 86,
+   "vis": null,
+   "alc": 0,
+   "eng": 0
+  },
+  {
+   "data": "2026-10-14",
+   "seg": 90,
+   "vis": 1202,
+   "alc": 135,
+   "eng": 14
+  },
+  {
+   "data": "2026-10-15",
+   "seg": 91,
+   "vis": 95,
+   "alc": 28,
+   "eng": 3
+  },
+  {
+   "data": "2026-10-16",
+   "seg": 91,
+   "vis": 4,
+   "alc": 1,
+   "eng": 0
+  },
+  {
+   "data": "2026-10-17",
+   "seg": 91,
+   "vis": 4,
+   "alc": 3,
+   "eng": 0
+  },
+  {
+   "data": "2026-10-18",
+   "seg": 90,
+   "vis": null,
+   "alc": 0,
+   "eng": 0
+  },
+  {
+   "data": "2026-10-19",
+   "seg": 90,
+   "vis": 2,
+   "alc": 1,
+   "eng": 0
+  },
+  {
+   "data": "2026-10-20",
+   "seg": 90,
+   "vis": 1004,
+   "alc": 151,
+   "eng": 12
+  },
+  {
+   "data": "2026-10-21",
+   "seg": 90,
+   "vis": 321,
+   "alc": 59,
+   "eng": 1
+  }
+ ],
+ "set": {
+  "posts": 4,
+  "alc_med": 128.0,
+  "alc_max": 205,
+  "alc_min": 99,
+  "alc_soma": 560,
+  "vis": 893,
+  "vis_conta": 1.59,
+  "curt": 26,
+  "com": 0,
+  "salv": 1,
+  "comp": 5,
+  "seg_post": 0,
+  "inter": 32,
+  "tx_comp": 0.9,
+  "tx_salv": 0.2,
+  "eng_dia_soma": 39,
+  "alc_dia_soma": 806,
+  "dias_com_alc_10": 9,
+  "dias": 30
+ },
+ "out": {
+  "posts": 2,
+  "alc_med": 166.5,
+  "alc_max": 177,
+  "alc_min": 156,
+  "alc_soma": 333,
+  "vis": 2244,
+  "vis_conta": 6.74,
+  "curt": 26,
+  "com": 0,
+  "salv": 0,
+  "comp": 27,
+  "seg_post": 3,
+  "inter": 53,
+  "tx_comp": 8.1,
+  "tx_salv": 0.0,
+  "eng_dia_soma": 31,
+  "alc_dia_soma": 382,
+  "dias_com_alc_10": 4,
+  "dias": 21
+ },
+ "capturas_21_10": {
+  "janela": "21/09 a 21/10",
+  "vis_30d": 2881,
+  "contas_30d": 298,
+  "inter_30d": 145,
+  "pct_seg": 56.5,
+  "pct_nseg": 43.5,
+  "vis_posts": 2400,
+  "vis_stories": 499,
+  "vis_reels": 0,
+  "origem_conduzida": {
+   "stories": 90.2,
+   "feed": 5.2,
+   "perfil": 2.9
+  },
+  "origem_metodo": {
+   "stories": 89.0,
+   "feed": 6.4,
+   "perfil": 1.7
+  },
+  "visitas_perfil": {
+   "conduzida": 7,
+   "metodo": 5
+  },
+  "idade_35_54": {
+   "conduzida": 72.3,
+   "metodo": 77.1
+  },
+  "stories": {
+   "unico_21_09": 59,
+   "unico_28_09": 62,
+   "telas_conduzida": [
+    26,
+    24,
+    23,
+    23
+   ],
+   "telas_metodo_curtidas": "4 a 6"
+  }
+ },
+ "insumos": {
+  "contatos": "não informado",
+  "reunioes": 0,
+  "propostas": 0,
+  "gasto_impulsionamento": 0
+ },
+ "seguidores": {
+  "em_12_10": 84,
+  "em_21_10": 90
+ }
+}
