@@ -1,0 +1,122 @@
+TONELLO & SIQUEIRA - INSTAGRAM
+Base de seguidores - 28/10/2026
+========================================================================
+
+Total de seguidores: 88 | Seguindo: 42
+Fonte: 8 capturas de tela da lista de seguidores (app Instagram),
+28/10/2026. 88 perfis extraídos, sem duplicidade; bate com o
+contador do perfil (lista completa).
+
+SÉRIE DIÁRIA DE SEGUIDORES (Metricool, campo IGEV01)
+------------------------------------------------------------------------
+19 a 23/10    90    -
+24/10         89    -1
+25/10         88    -1
+26/10         87    -1
+27/10         87    0
+28/10         88    +1 (capturas de tela)
+
+Saldo da semana: -2. Leitura provável (estimativa): 3 saídas entre
+24 e 26/10 e 1 entrada entre 27 e 28/10. Os campos de ganhos e
+perdas diários (IGEV43/IGEV44) vieram vazios na API; identidades
+das saídas anteriores a esta base não são recuperáveis.
+
+LISTA DE SEGUIDORES (ordem alfabética)
+------------------------------------------------------------------------
+  1. ag.createmkt
+  2. alerpalma
+  3. alexandretonello
+  4. altavista_bienes_raices
+  5. altonello
+  6. amaandaoliv
+  7. amelialimaboabaid
+  8. anajuliadaroit
+  9. anasschveitzer
+ 10. andrelkowalski
+ 11. andremenezes02
+ 12. berstelle
+ 13. boulevardodontologia
+ 14. brunawernkebarbosa
+ 15. bruno_vmar
+ 16. camisalgado
+ 17. carolbrennerdaroit
+ 18. celsonpj
+ 19. cesarsantos75
+ 20. chico_pimenta
+ 21. clasoares
+ 22. cleusa.botelho
+ 23. cris333_cal
+ 24. cristonello
+ 25. cwfagundes
+ 26. delanoaprato
+ 27. diogosautchuk
+ 28. duduwagner
+ 29. egerjuliano
+ 30. eliete.wagner.73
+ 31. elizabeth_tonello
+ 32. eltonmiran
+ 33. ernestostodieck
+ 34. evandro.40
+ 35. everton.highway
+ 36. fabianahal
+ 37. fabriciawagner
+ 38. felipemsiqueira
+ 39. filipepiovesan
+ 40. gb_carvalho
+ 41. gustavoflores2707
+ 42. gustavoscabral1
+ 43. heloconceicaopessi
+ 44. icinhatonello
+ 45. insync.innovate
+ 46. janemarabrenner
+ 47. jj_mendes
+ 48. josetadeusiqueira
+ 49. karinabtmelo
+ 50. leonardo_wolowski
+ 51. _leticiabs_
+ 52. luismathias.adv
+ 53. maicon.fsilva
+ 54. manoelasiqueira
+ 55. marcel.lodetti
+ 56. mike_biggs_art
+ 57. murilodaroit
+ 58. nagiovenardi
+ 59. nardowr.adv
+ 60. nicolauv
+ 61. oemersonrosa
+ 62. pablo050577
+ 63. patriciabrennerarquitetura
+ 64. personaltrainervini
+ 65. praza
+ 66. rafa.olenda
+ 67. rafa_espada
+ 68. rafael_gallotti
+ 69. rafaelaasadv
+ 70. rafaeljudarvicchini
+ 71. rafaelsilvawagner
+ 72. raphaelmb78
+ 73. riba5
+ 74. rodrigo.fernandes1904
+ 75. rodrigobuch
+ 76. ropitravel
+ 77. rpessi77
+ 78. rsarruda29
+ 79. sandraperes08
+ 80. sergiocaju08
+ 81. simoneangelicaalves
+ 82. soldefortim
+ 83. tati_caminha
+ 84. tatianacoelhoh
+ 85. thiagoody.ademicon
+ 86. tiago_t_f
+ 87. valterkiyan
+ 88. victorhugo.bsd
+
+ROTINA DE ACOMPANHAMENTO
+------------------------------------------------------------------------
+1. Toda segunda-feira, capturas de tela da lista completa de
+   seguidores (rolar até o fim).
+2. Comparação com esta base: saídas e entradas por nome de usuário.
+3. Cruzamento das datas de saída com o post e o teste da semana
+   (agenda de testes a partir do post 6).
+4. Cada nova lista vira um arquivo AAAA-MM-DD.txt nesta pasta.

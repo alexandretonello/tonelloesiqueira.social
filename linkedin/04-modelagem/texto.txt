@@ -1,12 +1,12 @@
 Antes da primeira planilha, quatro decisões já foram tomadas, na ordem das Normas Internacionais de Avaliação (IVS). A ordem não é preferência da casa: é a estrutura da norma.
 
-1. Escopo (IVS 101)
+1. Escopo 
 O ativo, o cliente e os usuários, o uso pretendido, a moeda, a data-base, a base de valor e as fontes de informação ficam definidos antes de qualquer metodologia.
 
 2. Base e premissa de valor (IVS 102)
 Valor de mercado, de investimento, equitativo ou de liquidação. A premissa: melhor uso, uso atual, liquidação ordenada ou venda forçada. É aqui que se testa se o ativo está no seu uso mais eficiente.
 
-3. Abordagens (IVS 103)
+3. Abordagens 
 Mercado, renda e custo, que chamamos de abordagem de ativos. Testamos as três; as que os dados não sustentam são descartadas por escrito, com o motivo.
 
 4. Reconciliação
@@ -16,7 +16,7 @@ O modelo (FAST Standard)
 Abas separadas por função (insumos, cálculos, apresentação e controle), fluxo único de insumo a resultado, fórmulas consistentes e curtas, checagens de erro à vista.
 
 Controles
-As IVS pedem controles documentados sobre os julgamentos. Usamos o Claude, da Anthropic, para auditar o modelo e testá-lo sob estresse. Premissas e conclusão são dos sócios.
+As IVS pedem controles documentados sobre os julgamentos. A cada versão, o modelo é auditado pelo FAST e pelas IVS e testado sob estresse, e o resultado fica registrado.
 
 Cada decisão fica registrada no laudo, com o motivo.
 
