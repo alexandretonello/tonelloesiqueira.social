@@ -32,8 +32,8 @@ Conteúdo de redes sociais da Tonello & Siqueira: posts de Instagram e LinkedIn 
   /10-empreendedorismo
 /relatorios
   /instagram
-    /AAAA-MM          — um por mês de competência (ts-rmd-AAAA-MM.pdf + ts-rmd-AAAA-MM.json + prints)
-    /seguidores       — base de seguidores por data (ts-sgd-AAAA-MM-DD.txt), para identificar entradas e saídas
+    /AAAA-MM          — um por mês de competência (ts-rmm-AAAA-MM.pdf + ts-rmm-AAAA-MM.json + prints)
+    /seguidores       — insumo do relatório mensal de mídia (RMM): base de seguidores por data de extração (ts-seguidores-AAAA-MM-DD.txt), uma extração por competência, para identificar entradas e saídas
 TS-tambor-posts-11-a-37.pdf   — proposta do tambor (séries, templates e posts 11 a 37)
 pp-institucional.pptx, pp-vendedor.pptx, pp-comprador.pptx — decks-base do conteúdo
 ```
@@ -113,11 +113,11 @@ Séries: **O termo** (azul + branca, sem foto) · **Antes de responder** (capa c
 
 ## Relatórios mensais do Instagram
 
-Emitidos entre os dias 1 e 5 de cada mês, sobre o mês anterior (competência), pela skill `ts-relatorio-instagram-mensal` (plugin tonello-advisory): comando `/ts-relatorio-instagram-mensal outubro 2026`, com os prints C1 a C3 do Insights anexados. Cada pasta `relatorios/instagram/AAAA-MM/` guarda o PDF, o `ts-rmd-AAAA-MM.json` (extração do Metricool, cálculos, metas do mês seguinte e checklist) e os prints. O JSON do mês é a base de comparação do mês seguinte — não apagar.
+Emitidos entre os dias 1 e 5 de cada mês, sobre o mês anterior (competência), pela skill `ts-relatorio-instagram-mensal` (plugin tonello-advisory): comando `/ts-relatorio-instagram-mensal outubro 2026`, com os prints C1 a C3 do Insights anexados. Cada pasta `relatorios/instagram/AAAA-MM/` guarda o PDF, o `ts-rmm-AAAA-MM.json` (extração do Metricool, cálculos, metas do mês seguinte e checklist) e os prints. O JSON do mês é a base de comparação do mês seguinte — não apagar.
 
 ## Acompanhamento de seguidores
 
-Nem o Metricool nem a API do Instagram identificam quem deixou de seguir; só o total diário (IGEV01). A lista nominal vem do download oficial de dados da Meta (instagram.com › Mais › Sua atividade › Baixar suas informações › Seguidores e seguindo, formato HTML; arquivo `followers_1.html`). Cada extração vira `relatorios/instagram/seguidores/ts-sgd-AAAA-MM-DD.txt` e é comparada com a anterior. Base inicial: `ts-sgd-2026-10-28.txt` (88 seguidores, extraída de capturas de tela).
+Nem o Metricool nem a API do Instagram identificam quem deixou de seguir; só o total diário (IGEV01). A lista nominal vem do download oficial de dados da Meta (instagram.com › Mais › Sua atividade › Baixar suas informações › Seguidores e seguindo, formato HTML; arquivo `followers_1.html`). Cada extração vira `relatorios/instagram/seguidores/ts-seguidores-AAAA-MM-DD.txt` e é comparada com a anterior. Base inicial: `ts-seguidores-2026-10-28.txt` (88 seguidores, extraída de capturas de tela).
 
 ## Padrão de marca
 
