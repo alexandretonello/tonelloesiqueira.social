@@ -25,7 +25,8 @@
    "tx_env": 7.4,
    "tx_comp": 8.0,
    "tx_salv": 0.0,
-   "tx_inter": 17.9
+   "tx_inter": 17.9,
+   "tx_int": 8.0
   },
   {
    "data": "2026-10-20",
@@ -46,7 +47,8 @@
    "tx_env": 8.3,
    "tx_comp": 9.9,
    "tx_salv": 0.0,
-   "tx_inter": 15.5
+   "tx_inter": 15.5,
+   "tx_int": 9.9
   },
   {
    "data": "2026-10-23",
@@ -67,7 +69,8 @@
    "tx_env": 6.7,
    "tx_comp": 8.5,
    "tx_salv": 1.1,
-   "tx_inter": 17.3
+   "tx_inter": 17.3,
+   "tx_int": 9.5
   },
   {
    "data": "2026-10-27",
@@ -88,7 +91,8 @@
    "tx_env": 6.8,
    "tx_comp": 10.6,
    "tx_salv": 0.8,
-   "tx_inter": 14.4
+   "tx_inter": 14.4,
+   "tx_int": 11.4
   },
   {
    "data": "2026-10-30",
@@ -109,7 +113,8 @@
    "tx_env": 16.1,
    "tx_comp": 18.3,
    "tx_salv": 0.0,
-   "tx_inter": 34.4
+   "tx_inter": 34.4,
+   "tx_int": 18.3
   }
  ],
  "alcance_diario": {
@@ -286,10 +291,11 @@
  },
  "publico": "sem dado: o Instagram não mostra demografia abaixo de 100 seguidores",
  "insumos": {
-  "contatos": "não informado",
-  "reunioes": "não informado",
-  "propostas": "não informado",
-  "gasto": "não informado"
+  "contatos": 0,
+  "reunioes": 0,
+  "propostas": 0,
+  "contratos": 0,
+  "gasto": 0.0
  },
  "seguidores_lista": {
   "base_28_10": 88,
@@ -340,7 +346,27 @@
    1
   ]
  ],
+ "recordes": {
+  "posts_mes": "7 (ago/2026, desde 13/08)",
+  "stories_mes": "35 (out/2026, 1º mês medido)",
+  "alc_med": "162 (out/2026)",
+  "alc_max": "283 (Modelagem, 23/10)",
+  "vis_mes": "5.742 (out/2026)",
+  "visualizadores": "418 (out/2026)",
+  "pct_nseg": "45,4% (out/2026)",
+  "comp_post": "24 (Modelagem, 23/10)",
+  "comp_mes": "86 (out/2026)",
+  "salv_post": "3 (Modelagem, 23/10)",
+  "com_post": "5 (Modelagem, 23/10)",
+  "visitas": "94 (out/2026)",
+  "tx_visita": "22,5% (out/2026)",
+  "toques": "1 (out/2026)",
+  "seg": "91 (15 a 17/10)",
+  "seg_post": "3 (A casa, 14/10)",
+  "dias_10": "11 (out/2026)"
+ },
  "formulas": {
+  "tx_int": "(envios + reposts + salvamentos) ÷ alcance × 100",
   "vis_conta": "vis ÷ alcance",
   "tx_comp": "(envios + reposts) ÷ alcance × 100",
   "tx_salv": "salvamentos ÷ alcance × 100",

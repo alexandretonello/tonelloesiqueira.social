@@ -113,7 +113,7 @@ Séries: **O termo** (azul + branca, sem foto) · **Antes de responder** (capa c
 
 ## Relatórios mensais do Instagram
 
-Emitidos entre os dias 1 e 5 de cada mês, sobre o mês anterior (competência), pela skill `ts-relatorio-instagram-mensal` (plugin tonello-advisory): comando `/ts-relatorio-instagram-mensal outubro 2026`, com os prints C1 a C3 do Insights anexados. Cada pasta `relatorios/instagram/AAAA-MM/` guarda o PDF, o `ts-rmm-AAAA-MM.json` (extração do Metricool, cálculos, metas do mês seguinte e checklist) e os prints. O JSON do mês é a base de comparação do mês seguinte — não apagar.
+Emitidos entre os dias 1 e 5 de cada mês, sobre o mês anterior (competência), pela skill `ts-relatorio-instagram-mensal` (plugin tonello-advisory): comando `/ts-relatorio-instagram-mensal outubro 2026`, com os prints C1 a C3 do Insights anexados. Cada pasta `relatorios/instagram/AAAA-MM/` guarda o PDF, o `ts-rmm-AAAA-MM.json` (extração do Metricool, cálculos, recordes, metas do mês seguinte e plano de ação) e os prints. O JSON do mês é a base de comparação do mês seguinte — não apagar.
 
 ## Acompanhamento de seguidores
 
