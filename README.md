@@ -54,10 +54,10 @@ Cada pasta de post (Instagram ou LinkedIn) contém:
 | 4 | Instagram | Modelagem — metodologia | sex 23/10 | Publicado |
 | 5 | Instagram | Caso — a vinícola (anonimizado) | ter 27/10 | Aprovado — 7 telas, aceite do cliente recebido, agendado no Metricool (10:00, publicação automática) |
 | 6 | Instagram | Intermediação — a venda | sex 30/10 | Aprovado — 8 telas, agendado no Metricool (10:00, publicação automática) |
-| 7 | Instagram | Para quem vende | ter 03/11 | Aprovado — 6 telas, agendado no Metricool (10:00, publicação automática) |
-| 8 | Instagram | Para quem compra | sex 06/11 | Aprovado — 6 telas, agendado no Metricool (10:00, publicação automática) |
-| 9 | Instagram | Para quem compra II — honorários e negociação | ter 10/11 | Aprovado — 8 telas, OK do Siqueira recebido, agendado no Metricool (10:00, publicação automática) |
-| 10 | Instagram | Empreendedorismo — Semana Global do Empreendedorismo (16 a 22/11) | ter 17/11 | Aprovado — 7 telas, agendado no Metricool (10:00, publicação automática) |
+| 7 | Instagram | Para quem vende — como chegamos ao valor (método) | qua 04/11 | Publicado — refeito em 4 telas (teses, modelo, compradores), legenda com o link do WhatsApp |
+| 8 | Instagram | Para quem compra | — | Não lançado — cancelado em 09/11; número preservado, guardado como rascunho no Metricool, sem publicação automática |
+| 9 | Instagram | Para quem compra II — honorários e negociação | qui 12/11 | Aprovado — 8 telas, OK do Siqueira recebido, agendado no Metricool (10:00, publicação automática) |
+| 10 | Instagram | Empreendedorismo — Semana Global do Empreendedorismo (16 a 22/11) | qui 19/11 | Aprovado — 7 telas, agendado no Metricool (10:00, publicação automática) |
 | 2 | LinkedIn | A Casa — Plataforma x Casa de M&A (publicação + foto) | qua 14/10 | Publicado |
 | 3 | LinkedIn | Método — como conduzimos | qui 22/10 | Aprovado — texto + foto |
 | 4 | LinkedIn | Modelagem — metodologia | seg 26/10 | Aprovado — texto técnico (IVS + FAST) + foto |
@@ -77,7 +77,7 @@ Texto do LinkedIn (padrão desde 16/10/2026, aplicado aos posts 3 a 10): 1.300 a
 
 ## Calendário — tambor (Instagram, posts 11 a 37)
 
-Um post a cada 5 ou 6 dias em dias úteis, às 10:00 (agenda de 02/11/2026; posts 7 a 10 reagendados no Metricool para 04, 09, 13 e 19/11), com rodízio de cinco séries de template fixo e datas comemorativas no dia exato. Recesso de 24/12 a 19/01. Detalhes de séries e templates em `TS-tambor-posts-11-a-37.pdf`.
+Um post a cada 5 ou 6 dias em dias úteis, às 10:00 (agenda de 02/11/2026; post 7 publicado em 04/11; post 8 não lançado; posts 9 e 10 agendados no Metricool para 12 e 19/11), com rodízio de cinco séries de template fixo e datas comemorativas no dia exato. Recesso de 24/12 a 19/01. Detalhes de séries e templates em `TS-tambor-posts-11-a-37.pdf`.
 
 | # | Data | Série | Post | Pasta |
 |---|------|-------|------|-------|
