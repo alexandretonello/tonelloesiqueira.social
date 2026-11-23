@@ -77,37 +77,37 @@ Texto do LinkedIn (padrão desde 16/10/2026, aplicado aos posts 3 a 10): 1.300 a
 
 ## Calendário — tambor (Instagram, posts 11 a 37)
 
-Um post a cada 5 ou 6 dias em dias úteis, às 10:00 (agenda de 02/11/2026; post 7 publicado em 04/11; post 8 não lançado; posts 9 e 10 agendados no Metricool para 12 e 19/11), com rodízio de cinco séries de template fixo e datas comemorativas no dia exato. Recesso de 24/12 a 19/01. Detalhes de séries e templates em `TS-tambor-posts-11-a-37.pdf`.
+Um post por semana, toda quinta-feira às 10:00 (decisão de 13/11/2026, substitui a cadência de 5 a 6 dias de 02/11), com rodízio de cinco séries de template fixo; datas comemorativas no dia exato, podendo haver dois posts na semana. Posts 7 a 10 publicados em 04, 12 (14:00) e 19/11; post 8 não lançado. Recesso de 24/12 a 19/01. Detalhes de séries e templates em `TS-tambor-posts-11-a-37.pdf`.
 
 | # | Data | Série | Post | Pasta |
 |---|------|-------|------|-------|
-| 11 | ter 24/11 | O termo | T1 — earn-out | `11-termo-earn-out` |
-| 12 | seg 30/11 | Antes de responder | A1 — proposta | `12-antes-de-responder-proposta` |
-| 13 | sex 04/12 | Pergunta e resposta | P1 — faturamento | `13-pergunta-faturamento` |
-| 14 | qua 16/12 | Regra da casa | R1 — dois sócios | `14-regra-dois-socios` |
-| 15 | qua 20/01 | Variável | Livro — Steve Jobs | `15-variavel-livro-steve-jobs` |
-| 16 | ter 26/01 | O termo | T2 — data-base | `16-termo-data-base` |
-| 17 | seg 01/02 | Antes de responder | A2 — exclusividade | `17-antes-de-responder-exclusividade` |
-| 18 | sex 05/02 | Pergunta e resposta | P2 — vender parte | `18-pergunta-vender-parte` |
+| 11 | qui 26/11 | O termo | T1 — earn-out | `11-termo-earn-out` |
+| 12 | qui 03/12 | Antes de responder | A1 — proposta | `12-antes-de-responder-proposta` |
+| 13 | qui 10/12 | Pergunta e resposta | P1 — faturamento | `13-pergunta-faturamento` |
+| 14 | qui 17/12 | Regra da casa | R1 — dois sócios | `14-regra-dois-socios` |
+| 15 | qui 21/01 | Variável | Livro — Steve Jobs | `15-variavel-livro-steve-jobs` |
+| 16 | qui 28/01 | O termo | T2 — data-base | `16-termo-data-base` |
+| 17 | qui 04/02 | Antes de responder | A2 — exclusividade | `17-antes-de-responder-exclusividade` |
+| 18 | qui 11/02 | Pergunta e resposta | P2 — vender parte | `18-pergunta-vender-parte` |
 | 19 | qua 09/12 | Data comemorativa | Dia contra a Corrupção | `19-data-dia-contra-corrupcao` |
-| 20 | qui 11/02 | Regra da casa | R2 — três abordagens | `20-regra-tres-abordagens` |
-| 21 | qua 17/02 | Variável | Livro — Abel Ferreira | `21-variavel-livro-abel-ferreira` |
-| 22 | ter 23/02 | O termo | T3 — dívida líquida | `22-termo-divida-liquida` |
-| 23 | seg 01/03 | Antes de responder | A3 — balanços | `23-antes-de-responder-balancos` |
+| 20 | qui 18/02 | Regra da casa | R2 — três abordagens | `20-regra-tres-abordagens` |
+| 21 | qui 25/02 | Variável | Livro — Abel Ferreira | `21-variavel-livro-abel-ferreira` |
+| 22 | qui 04/03 | O termo | T3 — dívida líquida | `22-termo-divida-liquida` |
+| 23 | qui 11/03 | Antes de responder | A3 — balanços | `23-antes-de-responder-balancos` |
 | 24 | qua 23/12 | Data comemorativa | Boas festas | `24-data-boas-festas` |
-| 25 | sex 05/03 | Pergunta e resposta | P3 — o laudo garante? | `25-pergunta-laudo-garante` |
-| 26 | qui 11/03 | Regra da casa | R3 — segundo caminho | `26-regra-segundo-caminho` |
-| 27 | qua 17/03 | Variável | Livro — Elon Musk | `27-variavel-livro-elon-musk` |
-| 28 | ter 23/03 | O termo | T4 — capital de giro | `28-termo-capital-de-giro` |
-| 29 | seg 29/03 | Antes de responder | A4 — investidor | `29-antes-de-responder-investidor` |
-| 30 | sex 02/04 | Pergunta e resposta | P4 — funcionários | `30-pergunta-funcionarios` |
-| 31 | qui 08/04 | Regra da casa | R4 — preço piso | `31-regra-preco-piso` |
-| 32 | qua 14/04 | Variável | vaga em aberto (vídeo ou livro) | `32-variavel-vazio` |
-| 33 | ter 20/04 | O termo | T5 — retenção | `33-termo-retencao` |
-| 34 | seg 26/04 | Antes de responder | A5 — clientes | `34-antes-de-responder-clientes` |
-| 35 | sex 30/04 | Pergunta e resposta | P5 — depende de mim? | `35-pergunta-depende-de-mim` |
-| 36 | qui 06/05 | Regra da casa | R5 — sinergias | `36-regra-sinergias` |
-| 37 | qua 12/05 | Variável | vaga em aberto (vídeo ou livro) | `37-variavel-vazio` |
+| 25 | qui 18/03 | Pergunta e resposta | P3 — o laudo garante? | `25-pergunta-laudo-garante` |
+| 26 | qui 25/03 | Regra da casa | R3 — segundo caminho | `26-regra-segundo-caminho` |
+| 27 | qui 01/04 | Variável | Livro — Elon Musk | `27-variavel-livro-elon-musk` |
+| 28 | qui 08/04 | O termo | T4 — capital de giro | `28-termo-capital-de-giro` |
+| 29 | qui 15/04 | Antes de responder | A4 — investidor | `29-antes-de-responder-investidor` |
+| 30 | qui 22/04 | Pergunta e resposta | P4 — funcionários | `30-pergunta-funcionarios` |
+| 31 | qui 29/04 | Regra da casa | R4 — preço piso | `31-regra-preco-piso` |
+| 32 | qui 06/05 | Variável | vaga em aberto (vídeo ou livro) | `32-variavel-vazio` |
+| 33 | qui 13/05 | O termo | T5 — retenção | `33-termo-retencao` |
+| 34 | qui 20/05 | Antes de responder | A5 — clientes | `34-antes-de-responder-clientes` |
+| 35 | qui 27/05 (Corpus Christi — a decidir) | Pergunta e resposta | P5 — depende de mim? | `35-pergunta-depende-de-mim` |
+| 36 | qui 03/06 | Regra da casa | R5 — sinergias | `36-regra-sinergias` |
+| 37 | qui 10/06 | Variável | vaga em aberto (vídeo ou livro) | `37-variavel-vazio` |
 
 Séries: **O termo** (azul + branca, sem foto) · **Antes de responder** (capa com foto do sócio + branca) · **Pergunta e resposta** (azul + branca, sem foto) · **Regra da casa** (foto em coluna + branca) · **Variável** (tela única azul: livro, notícia ou vídeo; vídeos podem ocupar as vagas da série). Pastas de série: `post-01.png`, `post-02.png`, `legenda.txt`; livro e data comemorativa: `post-01.png`, `legenda.txt`, `CREDITOS.txt`.
 
