@@ -1,8 +1,8 @@
 O termo nº 02: data-base.
 
-A data a que o valor se refere. O laudo diz quanto a empresa vale naquele dia, com o balanço, a dívida e o caixa daquela data.
+A data de referência do laudo. O valor apurado vale para a empresa como ela estava naquele dia, com o balanço, a dívida e o caixa daquela data.
 
-Fatos posteriores, como um cliente perdido ou uma mudança no juro, pedem atualização do laudo, não reinterpretação do número antigo. Por isso a data-base é definida antes de qualquer método, junto com a finalidade.
+Ela existe porque uma empresa muda todo dia, e é definida no início da avaliação, junto com a finalidade. O que acontece depois, como a perda de um cliente ou uma mudança no juro, não altera o laudo: pede uma atualização.
 
 Valor sem data é opinião.
 

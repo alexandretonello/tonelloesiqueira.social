@@ -92,24 +92,24 @@ Um post por semana, toda quinta-feira às 10:00 (decisão de 13/11/2026, substit
 | 19 | qua 09/12 | Data comemorativa | Dia contra a Corrupção | `19-data-dia-contra-corrupcao` |
 | 20 | qui 18/02 | Regra da casa | R2 — três abordagens | `20-regra-tres-abordagens` |
 | 21 | qui 25/02 | Variável | Livro — Abel Ferreira | `21-variavel-livro-abel-ferreira` |
-| 22 | qui 04/03 | O termo | T3 — dívida líquida | `22-termo-divida-liquida` |
+| 22 | qui 04/03 | O termo | T3 — múltiplo | `22-termo-multiplo` |
 | 23 | qui 11/03 | Antes de responder | A3 — balanços | `23-antes-de-responder-balancos` |
 | 24 | qua 23/12 | Data comemorativa | Boas festas | `24-data-boas-festas` |
 | 25 | qui 18/03 | Pergunta e resposta | P3 — o laudo garante? | `25-pergunta-laudo-garante` |
 | 26 | qui 25/03 | Regra da casa | R3 — segundo caminho | `26-regra-segundo-caminho` |
 | 27 | qui 01/04 | Variável | Livro — Elon Musk | `27-variavel-livro-elon-musk` |
-| 28 | qui 08/04 | O termo | T4 — capital de giro | `28-termo-capital-de-giro` |
+| 28 | qui 08/04 | O termo | T4 — EBITDA | `28-termo-ebitda` |
 | 29 | qui 15/04 | Antes de responder | A4 — investidor | `29-antes-de-responder-investidor` |
 | 30 | qui 22/04 | Pergunta e resposta | P4 — funcionários | `30-pergunta-funcionarios` |
 | 31 | qui 29/04 | Regra da casa | R4 — preço piso | `31-regra-preco-piso` |
 | 32 | qui 06/05 | Variável | vaga em aberto (vídeo ou livro) | `32-variavel-vazio` |
-| 33 | qui 13/05 | O termo | T5 — retenção | `33-termo-retencao` |
+| 33 | qui 13/05 | O termo | T5 — valor da empresa | `33-termo-valor-da-empresa` |
 | 34 | qui 20/05 | Antes de responder | A5 — clientes | `34-antes-de-responder-clientes` |
 | 35 | qui 27/05 (Corpus Christi — a decidir) | Pergunta e resposta | P5 — depende de mim? | `35-pergunta-depende-de-mim` |
 | 36 | qui 03/06 | Regra da casa | R5 — sinergias | `36-regra-sinergias` |
 | 37 | qui 10/06 | Variável | vaga em aberto (vídeo ou livro) | `37-variavel-vazio` |
 
-Séries: **O termo** (azul + branca, sem foto) · **Antes de responder** (capa com foto do sócio + branca) · **Pergunta e resposta** (azul + branca, sem foto) · **Regra da casa** (foto em coluna + branca) · **Variável** (tela única azul: livro, notícia ou vídeo; vídeos podem ocupar as vagas da série). Pastas de série: `post-01.png`, `post-02.png`, `legenda.txt`; livro e data comemorativa: `post-01.png`, `legenda.txt`, `CREDITOS.txt`.
+Séries: **O termo** (3 telas: azul em degradê + duas brancas, sem foto; o T4 e o T5 têm uma tela cinza a mais com a folha contábil — demonstração do resultado e ponte do valor da empresa ao valor do sócio) · **Antes de responder** (capa com foto do sócio + branca) · **Pergunta e resposta** (azul + branca, sem foto) · **Regra da casa** (foto em coluna + branca) · **Variável** (tela única azul: livro, notícia ou vídeo; vídeos podem ocupar as vagas da série). Pastas de série: `post-01.png`, `post-02.png`, `legenda.txt`; livro e data comemorativa: `post-01.png`, `legenda.txt`, `CREDITOS.txt`.
 
 ## Relatórios mensais do Instagram
 
