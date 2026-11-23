@@ -1,9 +1,11 @@
 O termo nº 02: data-base.
 
-A data de referência do laudo. O valor apurado vale para a empresa como ela estava naquele dia, com o balanço, a dívida e o caixa daquela data.
+A data de referência do laudo: o valor vale para a empresa como ela estava naquele dia.
 
-Ela existe porque uma empresa muda todo dia, e é definida no início da avaliação, junto com a finalidade. O que acontece depois, como a perda de um cliente ou uma mudança no juro, não altera o laudo: pede uma atualização.
+Surgiu porque uma empresa muda todo dia. Sem uma data fixa, ninguém sabe a que balanço, dívida e caixa o valor se refere. Com ela, comprador e vendedor passam a discutir o mesmo retrato da empresa.
 
-Valor sem data é opinião.
+O laudo usa os números fechados até aquela data. Perder um grande cliente, ganhar um contrato ou ver o juro mudar depois disso não altera o laudo: pede uma atualização.
+
+A data deve ser próxima da negociação, com balanço fechado nela. Se o tempo passar, o laudo é atualizado, não reinterpretado.
 
 #fusoeseaquisicoes #valuation #avaliacaodeempresas #pequenasemediasempresas

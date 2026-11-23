@@ -1,7 +1,11 @@
 O termo nº 01: earn-out.
 
-Parte do preço paga depois da venda, se a empresa atingir metas combinadas. Existe porque comprador e vendedor discordam sobre o futuro, e o earn-out divide essa aposta.
+Mecanismo do contrato de compra e venda que condiciona parte do preço ao desempenho futuro da empresa.
 
-Onde costuma dar briga é na forma de medir: faturamento, lucro ou caixa, com que regras e quem aprova o balanço. Para quem vende, meta, prazo e forma de medir por escrito, com exemplo numérico no contrato. E vale combinar o que o comprador não pode mudar na gestão enquanto a meta estiver correndo.
+Surgiu porque vendedor e comprador costumam divergir sobre o futuro: um aposta no crescimento, o outro não quer pagar por ele antes de vê-lo. Em vez de travar a negociação, a diferença é paga depois, se o resultado vier.
+
+É opcional. Quando adotado, o preço vira duas parcelas: uma fixa, no fechamento, e uma variável, paga se a meta for atingida. As metas mais comuns são faturamento, lucro, geração de caixa, clientes mantidos ou contratos renovados.
+
+A meta precisa ter indicador, prazo, regra de cálculo com exemplo, quem confere os números e o que não muda na gestão.
 
 #earnout #fusoeseaquisicoes #valuation #avaliacaodeempresas #pequenasemediasempresas

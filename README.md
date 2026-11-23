@@ -105,7 +105,7 @@ Um post por semana, toda quinta-feira às 10:00 (decisão de 13/11/2026, substit
 | 32 | qui 06/05 | Variável | vaga em aberto (vídeo ou livro) | `32-variavel-vazio` |
 | 33 | qui 13/05 | O termo | T5 — valor da empresa | `33-termo-valor-da-empresa` |
 | 34 | qui 20/05 | Antes de responder | A5 — clientes | `34-antes-de-responder-clientes` |
-| 35 | qui 27/05 (Corpus Christi — a decidir) | Pergunta e resposta | P5 — depende de mim? | `35-pergunta-depende-de-mim` |
+| 35 | qua 26/05 (véspera de Corpus Christi) | Pergunta e resposta | P5 — depende de mim? | `35-pergunta-depende-de-mim` |
 | 36 | qui 03/06 | Regra da casa | R5 — sinergias | `36-regra-sinergias` |
 | 37 | qui 10/06 | Variável | vaga em aberto (vídeo ou livro) | `37-variavel-vazio` |
 
